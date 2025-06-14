@@ -1,0 +1,5 @@
+Ahmed Ben Ali
+
+Compétences : Python, IA, NLP, PyTorch  
+Expérience : 3 ans en data science  
+Projets : Classification de texte, modèles de langage, chatbot  

@@ -1,0 +1,5 @@
+Jean Dupont
+
+Compétences : Python, Pandas, Flask, API REST, Docker  
+Expérience : 5 ans comme développeur Python chez DataCorp  
+Projets : Développement d'API, déploiement avec Docker, traitement de données avec Pandas  

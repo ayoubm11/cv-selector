@@ -1,0 +1,3 @@
+Nous recherchons un développeur Python expérimenté, 
+maîtrisant les bibliothèques comme Pandas, Flask et ayant une expérience avec Docker et les API REST. 
+Une expérience avec l'IA ou le NLP est un plus.

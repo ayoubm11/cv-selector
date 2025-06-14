@@ -1,0 +1,5 @@
+Marie Durant
+
+Compétences : Java, Spring Boot, SQL, DevOps  
+Expérience : 6 ans comme développeuse Java  
+Projets : Backend Java, gestion de base de données, CI/CD  
